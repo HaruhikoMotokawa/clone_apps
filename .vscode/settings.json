@@ -1,0 +1,19 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    // 追加
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#178be3b9",
+        "editorBracketHighlight.foreground2": "#d2ff3feb",
+        "editorBracketHighlight.foreground3": "#ff0000",
+        "editorBracketHighlight.foreground4": "#096a2c",
+        "editorBracketHighlight.foreground5": "#3F7FFF",
+        "editorBracketHighlight.foreground6": "#7ffff0",
+        "editorCursor.foreground": "#5748e2",
+        "terminalCursor.foreground": "#15ff00"
+    },
+     // 追加
+    "editor.guides.bracketPairs": "active",
+    "cSpell.words": [
+        "prefs"
+    ]
+}
