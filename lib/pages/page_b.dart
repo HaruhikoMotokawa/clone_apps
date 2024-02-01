@@ -1,4 +1,4 @@
-import 'package:clone_apps/widgets/carousel_video_section.dart';
+import 'package:clone_apps/widgets/you_tube_page/carousel_video_section.dart';
 import 'package:flutter/material.dart';
 
 class PageB extends StatelessWidget {

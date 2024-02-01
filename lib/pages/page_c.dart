@@ -1,4 +1,4 @@
-import 'package:clone_apps/widgets/short_videos_grid_view.dart';
+import 'package:clone_apps/widgets/you_tube_page/short_videos_grid_view.dart';
 import 'package:flutter/material.dart';
 
 class PageC extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:clone_apps/model/video.dart';
+import 'package:clone_apps/model/you_tube_page/video.dart';
 import 'package:flutter/material.dart';
 
 class CarouselVideoSection extends StatelessWidget {

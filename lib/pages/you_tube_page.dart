@@ -1,9 +1,9 @@
-import 'package:clone_apps/model/video.dart';
-import 'package:clone_apps/widgets/carousel_button_section.dart';
-import 'package:clone_apps/widgets/carousel_video_section.dart';
-import 'package:clone_apps/widgets/header_section.dart';
-import 'package:clone_apps/widgets/short_videos_grid_view.dart';
-import 'package:clone_apps/widgets/video_card.dart';
+import 'package:clone_apps/model/you_tube_page/video.dart';
+import 'package:clone_apps/widgets/you_tube_page/carousel_button_section.dart';
+import 'package:clone_apps/widgets/you_tube_page/carousel_video_section.dart';
+import 'package:clone_apps/widgets/you_tube_page/header_section.dart';
+import 'package:clone_apps/widgets/you_tube_page/short_videos_grid_view.dart';
+import 'package:clone_apps/widgets/you_tube_page/video_card.dart';
 import 'package:flutter/material.dart';
 
 class YouTubePage extends StatelessWidget {

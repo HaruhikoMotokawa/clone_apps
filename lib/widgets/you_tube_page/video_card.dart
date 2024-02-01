@@ -1,5 +1,5 @@
-import 'package:clone_apps/model/video.dart';
-import 'package:clone_apps/widgets/select_button.dart';
+import 'package:clone_apps/model/you_tube_page/video.dart';
+import 'package:clone_apps/widgets/you_tube_page/select_button.dart';
 import 'package:flutter/material.dart';
 
 class VideoCard extends StatelessWidget {
